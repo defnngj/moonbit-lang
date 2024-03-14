@@ -141,18 +141,19 @@ Hello, world!
 
 ### vscode Moonbit插件
 
-工欲善其事必先利其器，我们总不能用记事本写Moonbit代码吧！VSCode提供了Moonbit插件，至少有个代码高亮，代码不容易些错。
+工欲善其事必先利其器，我们总不能用记事本写Moonbit代码吧！VSCode提供了Moonbit插件，至少有个代码高亮，代码不容易出错。
 
 * VSCode插件
 
 ![vscode moonbit插件](image/vscode.png)
 
 * 代码高亮
+
 ![代码高亮](image/code.png)
 
 ### Moonbit 语法
 
-作为一个有经验的程序员，Moonbit 语法 与JavaScript、Python等语言的语法非常相似，所以上手非常容易。
+我简单的贴几个Moonbit 语言的使用例子，大家主观上Moonbit语言的语法有个了解。
 
 
 * 函数调用
@@ -255,6 +256,8 @@ fn main {
   println(n.lastName)
 }
 ```
+
+moonbit学习链接：
 
 https://www.moonbitlang.cn/download/
 
